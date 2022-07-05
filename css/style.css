@@ -47,3 +47,8 @@ footer {
     padding-top: 30px;
     padding-bottom: 10px;
 }
+
+.selector {
+    font-family: "Awesome", Arial, sans-serif;
+    color: red;
+  }
